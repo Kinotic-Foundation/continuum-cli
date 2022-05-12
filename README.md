@@ -1,13 +1,15 @@
-oclif-hello-world
+Continuum CLI
 =================
 
-oclif example Hello World CLI
+Continuum CLI
 
-[![oclif](https://img.shields.io/badge/cli-oclif-brightgreen.svg)](https://oclif.io)
-[![Version](https://img.shields.io/npm/v/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
-[![CircleCI](https://circleci.com/gh/oclif/hello-world/tree/main.svg?style=shield)](https://circleci.com/gh/oclif/hello-world/tree/main)
-[![Downloads/week](https://img.shields.io/npm/dw/oclif-hello-world.svg)](https://npmjs.org/package/oclif-hello-world)
-[![License](https://img.shields.io/npm/l/oclif-hello-world.svg)](https://github.com/oclif/hello-world/blob/main/package.json)
+[//]: # ([![Version]&#40;https://img.shields.io/npm/v/oclif-hello-world.svg&#41;]&#40;https://npmjs.org/package/oclif-hello-world&#41;)
+
+[//]: # ([![CircleCI]&#40;https://circleci.com/gh/oclif/hello-world/tree/main.svg?style=shield&#41;]&#40;https://circleci.com/gh/oclif/hello-world/tree/main&#41;)
+
+[//]: # ([![Downloads/week]&#40;https://img.shields.io/npm/dw/oclif-hello-world.svg&#41;]&#40;https://npmjs.org/package/oclif-hello-world&#41;)
+
+[//]: # ([![License]&#40;https://img.shields.io/npm/l/oclif-hello-world.svg&#41;]&#40;https://github.com/oclif/hello-world/blob/main/package.json&#41;)
 
 <!-- toc -->
 * [Usage](#usage)
